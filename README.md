@@ -1,7 +1,8 @@
 # 2b-2-Introduction-to-Bash-Scripting-System-Automation
 - What command did you use to create a new directory?
-- 
+  
 The mkdir command (e.g., mkdir LabFiles) is used to create a new directory in the Linux filesystem.
+
 - How can you view the contents of a file without opening it in a GUI?
   
 You can view file contents directly in the terminal using command-line text viewing utilities like cat, less, or head.
